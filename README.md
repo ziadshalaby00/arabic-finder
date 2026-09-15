@@ -126,7 +126,3 @@ and the Arabic characters highlighted in red.
 
 Explicit `--ignore` paths take precedence over `--include` paths. Explicit
 `--include` paths override the default extension and directory ignores.
-
-## License
-
-This project is licensed under the MIT License.
